@@ -1,5 +1,7 @@
 # **Project 1 — Production Cloud Engineering Stack**
 
+![Production Cloud Engineering Stack](https://github.com/cyberratel/Project-1-Production-Cloud-Engineering-Stack/blob/main/production-cloud-engineering-stack-repository.png?raw=true)
+
 **Complete Implementation Roadmap — Organized by Technology and Deployment Environment**
 
 Three production deployment environments:
